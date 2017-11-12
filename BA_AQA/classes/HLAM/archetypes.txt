@@ -1,0 +1,7 @@
+GroupId=ru.stqa.selenium 
+ArtifactId=webdriver-testng-archetype 
+Version=4.2
+
+GroupId=ru.stqa.selenium 
+ArtifactId=webdriver-junit-archetype 
+Version=4.2
